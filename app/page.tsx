@@ -2,6 +2,7 @@ import { Button } from "antd";
 import TablePrice from "./components/TablePrice/TablePrice";
 import styles from "./page.module.css";
 import Image from "next/image";
+import Cards from "./components/Cards/Cards";
 
 export default function Home() {
   return (
@@ -22,6 +23,8 @@ export default function Home() {
       </div>
 
       <Button className={styles.btnOpen}>Abrir empresa grátis</Button>
+
+      <Cards />
     </div>
   );
 }
