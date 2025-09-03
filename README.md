@@ -15,4 +15,4 @@
 - ANT DESIGN
 
 ## Projeto em execução
-[![tela](./tela)](https://teste-tecnico-contabilidade-git-main-tobias-ramos-projects.vercel.app/)
+[![tela](./tela.gif)](https://teste-tecnico-contabilidade-git-main-tobias-ramos-projects.vercel.app/)
