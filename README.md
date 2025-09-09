@@ -13,6 +13,3 @@
 - TYPESCRIPT
 - NEXTJS
 - ANT DESIGN
-
-## Projeto em execução
-[![tela](./tela.gif)](https://teste-tecnico-contabilidade-git-main-tobias-ramos-projects.vercel.app/)
